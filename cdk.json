@@ -1,0 +1,6 @@
+{
+  "context": {
+    "platform": "arn:aws:elasticbeanstalk:eu-west-1::platform/Node.js 20 running on 64bit Amazon Linux 2023/6.1.8"
+  },
+  "app": "node bin/index"
+}
